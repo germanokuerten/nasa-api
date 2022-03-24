@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+
+.image-container {
+    height: 400px;
+    text-align: center;
+
+}
+
+img {
+    height: 400px;
+}
